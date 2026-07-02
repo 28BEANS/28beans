@@ -1,4 +1,5 @@
-## Hi there 👋
+
+[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,java,javascript,html,css,react,fastapi,supabase,postgres,git,github,vscode)](https://skillicons.dev)
 
 <!--
 **28BEANS/28beans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
