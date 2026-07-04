@@ -4,13 +4,15 @@
 ## bean stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28BEANS&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28BEANS&layout=compact&theme=gruvbox&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=28beans&theme=graywhite&show_icons=true" alt="Stats" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=28beans&theme=graywhite" alt="Streak" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=28beans&theme=graywhite&layout=compact" alt="Top Languages" />
+  
 </p>
 
 ## bean at work
 
-[![bean at work](https://github-readme-activity-graph.vercel.app/graph?username=28BEANS&theme=gruvbox&hide_border=true)](https://github.com/28BEANS)
+[![bean at work](https://github-readme-activity-graph.vercel.app/graph?username=28BEANS&theme=graywhite&hide_border=true)](https://github.com/28BEANS)
 
 ## eating beans
 
