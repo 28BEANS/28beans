@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Animated Banner" width="100%">
+</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,java,javascript,html,css,react,fastapi,supabase,postgres,git,github,vscode)](https://skillicons.dev)
 
