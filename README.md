@@ -14,8 +14,6 @@
 </p>
 
 ## bean at work
-
-[![bean at work](https://github-readme-activity-graph.vercel.app/graph?username=28BEANS&theme=dracula&hide_border=true)](https://github.com/28BEANS)
 ![28BEANS 30-day contribution graph](./assets/contribution-graph.svg)
 
 ## eating beans
